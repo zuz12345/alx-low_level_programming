@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Description: C program that prints assign a random number 
+ * Description: C program that prints assign a random number
  *
  * Return: always 0 (success)
 */
@@ -17,15 +17,15 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 	{
-		printf("%i s positive\n", n);
+		printf("%i is positive\n", n);
 	}
 	else if (n == 0)
 	{
-		printf("%i s zero\n", n);
+		printf("%i is zero\n", n);
 	}
-	else 
+	else
 	{
-		printf("%i s negative\n", n);
-	}	
+		printf("%i is negative\n", n);
+	}
 	return (0);
 }
