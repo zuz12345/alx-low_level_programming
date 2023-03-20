@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Description: C program that prints assign a random number 
+ * Description: C program that prints assign a random number
  *
  * Return: always 0 (success)
 */
@@ -23,7 +23,7 @@ int main(void)
 	{
 		printf("%i is zero\n", n);
 	}
-	else 
+	else
 	{
 		printf("%i is negative\n", n);
 	}	
