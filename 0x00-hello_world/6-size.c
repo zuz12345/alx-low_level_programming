@@ -2,8 +2,8 @@
 
 /**
  * main - Entry point
- * 
- * Description: A C Program that prints  the size of various types on the computer it is compiled and run on using printf function 
+ *
+ * Description: A C Program that prints  the size of various types on the computer it is compiled and run on using printf function
  *
  * Return: Always 0 (success)
 */
