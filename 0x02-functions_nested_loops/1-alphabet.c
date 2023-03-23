@@ -1,9 +1,9 @@
 #include "main.h"
-/**
- * print_alphaber - utilizes on the _putchar function to print 
- * the alphabet a - z
-*/
 
+
+	/**
+	 * print_alphabet - print all alphabet in lowercase
+	 */
 
 
 	void print_alphabet(void)
@@ -17,4 +17,3 @@
 
 		_putchar('\n');
 	}
-
