@@ -9,6 +9,7 @@
 */
 
 int main(void)
+<<<<<<< HEAD
 {
 	char str[]="_putchar";
 	int ch;
@@ -17,4 +18,7 @@ int main(void)
 	_putchar('\n');
 	
 	return (0);
+=======
+{    printf("_putchar");  return (0);
+>>>>>>> a18524a056df63e8aeeddfc93889004fd2b00afd
 }
