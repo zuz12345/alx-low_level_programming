@@ -1,13 +1,9 @@
 #include "main.h"
-
-
 /**
- * main - Entry point
+ * print_alphaber - utilizes on the _putchar function to print the alphabet a - z
  *
- * Description: C program that prints print_alphabet
- *
- * Return: always 0 (success)
 */
+
 
 
 	void print_alphabet(void)
