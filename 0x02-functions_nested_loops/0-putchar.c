@@ -1,10 +1,8 @@
 #include "main.h"
 	/**
-	 * main - Entry point
-	 *
-	 * Description: C program that prints putchar prototype
-	 *
-	 * Return: always 0 (success)
+	 * main - print _putchar
+	 * is written by mbah
+	 * Return: 0
 	 */
 
 
