@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * Description: C program that prints {take_it_from_example}
+ * Description: C program that prints print_alphabet
  *
  * Return: always 0 (success)
 */
