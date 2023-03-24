@@ -6,16 +6,12 @@
  *
  * Return: 0 or 1
  */
+
 int _isdigit(int c)
 {
-	int c;
-	c = digit;
-	if (digit >= 0 && digit <= 9)
-	{
+	if (c >= '0' && c <= '9')
 		return (1);
-	}
 	else
-	{
 		return (0);
-	}
 }
+
